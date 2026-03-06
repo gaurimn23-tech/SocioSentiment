@@ -2,6 +2,7 @@
 
 SocioSentiment – Multilingual Sentiment & Emotion Analysis
 SocioSentiment is a multilingual sentiment and emotion analysis system designed to analyze public opinions on social issues such as climate change, healthcare, education, and politics. The system processes text input in English and Hindi, detects sentiment polarity, identifies underlying emotions, and provides confidence scores and explainable results through keyword highlighting. 
+
 Live App
 Try the app here: https://sociosentiment-dnnuo4yyrqc3z4ptxtthnd.streamlit.app/
 
